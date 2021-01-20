@@ -11,7 +11,7 @@
   a link to your repo, e.g. 
   https://github.com/ucsb-cs156-w21/jpa03-cgaucho
 
-Repo: https://ucsb-cs156-w21/STARTER-jpa03
+Repo: https://codecov.io/gh/ucsb-cs156-w21/jpa03-team-6pm-3
 
 * TODO: Correct the links to app on Heroku below, 
   then delete this TODO.  Replace it with 
