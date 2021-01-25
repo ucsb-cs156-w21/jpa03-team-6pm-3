@@ -1,33 +1,10 @@
-# STARTER-lab03
+# jpa03-team-6pm-3
 
+Repo: https://github.com/ucsb-cs156-w21/jpa03-team-6pm-3
 
-* TODO: Change the title of this README 
-  in the text `# STARTER-jpa03` above
-  to match the name of your repo, i. e., `jpa03-yourgithubid`, then delete
-  this TODO item.
+On Heroku: https://jpa03-w21-team-6pm-3.herokuapp.com
 
-* TODO: Correct the links to repo below, 
-  then delete this TODO.  Replace it with 
-  a link to your repo, e.g. 
-  https://github.com/ucsb-cs156-w21/jpa03-cgaucho
-
-Repo: https://codecov.io/gh/ucsb-cs156-w21/jpa03-team-6pm-3
-
-* TODO: Correct the links to app on Heroku below, 
-  then delete this TODO.  Replace it with 
-  a link to your running app on Heroku, e.g.
-  https://jpa03-cgaucho.herokuapp.com
-
-
-On Heroku: https://jpa03-cgaucho.herokuapp.com
-
-* TODO: Correct the links to codecov report below
-  then delete this TODO.  Replace it with 
-  a link to your codecov report.  Fix the URLs in the codecov
-  badge markup below as well so that the badge links to your
-  correct codecov report.
-
-On Codecov: https://codecov.io/gh/ucsb-cs156-w21/jpa03-cgaucho
+On Codecov: https://codecov.io/gh/ucsb-cs156-w21/jpa03-team-6pm-3
 
 
 [![codecov](https://codecov.io/gh/ucsb-cs156-w21/jpa03-team-6pm-3/branch/main/graph/badge.svg?token=HWAJFMR10F)](https://codecov.io/gh/ucsb-cs156-w21/jpa03-team-6pm-3)
